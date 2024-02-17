@@ -1,0 +1,10 @@
+{
+  "extensionDescription": {
+    "description": "Youtube-downloader",
+    "message": "Chrome extension boilerplate developed with Vite, React and Typescript"
+  },
+  "extensionName": {
+    "description": "Youtube-downloader",
+    "message": "Chrome extension boilerplate"
+  }
+}
